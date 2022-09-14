@@ -1,6 +1,16 @@
 <h1 align="center">Jogo da Forca</h1>
 <p align="center">Este é meu jogo da forca, o segundo desafio do projeto ONE - Oracle Next Education</p>
 
+<p align="center">
+  <img height="60px" src="https://i.imgur.com/w0NvalO.png">
+</p>
+
+
+<p align="center">
+  <img height="9" src="https://i.imgur.com/PvAbpvx.png"> &
+  <img height="13" src="https://i.imgur.com/rEzWrXJ.png">
+</p>
+
 Sumário
 ===========
 <!--ts-->

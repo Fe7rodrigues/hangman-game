@@ -38,7 +38,7 @@ Screenshot
 
 Como Usar
 ---------
-<p>Você pode acessar o site clicando <a href="https://github.com/Fe7rodrigues/one_oracle_next_education/tree/main/challenges/jogo_da_forca">aqui</a> ou abrindo o arquivo HTML em um navegador.</p>
+<p>Você pode acessar o site clicando <a href="https://fe7rodrigues.github.io/hangman_game/">aqui</a> ou abrindo o arquivo HTML em um navegador.</p>
 <p>Logo de início uma palavra será sorteada e você pode tentar descobrir qual é, você possui 6 tentativas para acertar a palavra.</p>
 <p>A cada final de jogo será mostrada a palavra correta e você poderá jogar novamente com outra palavra sorteada clicando no botão "Jogar novamente".</p>
 

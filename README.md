@@ -67,6 +67,6 @@ Autor
 <h3 align="center">Fernando Rodrigues</h3>
 <p align="center">
  
- <a hrf="https://github.com/fe7rodrigues"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
-  <a hrf="https://www.linkedin.com/in/fe7rodrigues/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+ <a href="https://github.com/fe7rodrigues"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/fe7rodrigues/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </p>

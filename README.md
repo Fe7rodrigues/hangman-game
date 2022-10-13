@@ -16,7 +16,6 @@ Summary
 <!--ts-->
   * [About](#about)
    * [Screenshot](#screenshot)
-   * [How to use](#how_to_use)
    * [Status](#status)
    * [Technologies](#technologies)
    * [Author](#author)

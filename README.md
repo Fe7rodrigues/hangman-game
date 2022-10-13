@@ -38,7 +38,7 @@ Screenshot
 
 How to use
 ---------
-<p>You can access the site by clicking<a href="https://fe7rodrigues.github.io/hangman_game/">here</a> ou abrindo o arquivo HTML em um navegador.</p>
+<p>You can access the site by clicking <a href="https://fe7rodrigues.github.io/hangman_game/">here</a> ou abrindo o arquivo HTML em um navegador.</p>
 <p>Right from the start a word will be drawn and you can try to find out which one it is, you have 6 attempts to get the word right.</p>
 <p>At each end of the game, the correct word will be shown and you will be able to play again with another word drawn by clicking on the "Play again" button.</p>
 

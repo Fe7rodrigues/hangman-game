@@ -1,5 +1,5 @@
-<h1 align="center">Jogo da Forca</h1>
-<p align="center">Este é meu jogo da forca, o segundo desafio do projeto ONE - Oracle Next Education</p>
+<h1 align="center">Hangman game</h1>
+<p align="center">This is my hangman game, the second challenge of the project - ONE Oracle Next Education</p>
 
 <p align="center">
   <img height="60px" src="https://i.imgur.com/w0NvalO.png">
@@ -11,23 +11,23 @@
   <img height="13" src="https://i.imgur.com/rEzWrXJ.png">
 </p>
 
-Sumário
+Summary
 ===========
 <!--ts-->
-  * [Sobre](#sobre)
-  * [Screenshot](#screenshot)
-  * [Como usar](#como-usar)
-  * [Status](#status)
-  * [Funcionalidades](#funcionalidades)
-  * [Tecnologias](#tecnologias)
-  * [Autor](#autor)
+  * [About](#about)
+   * [Screenshot](#screenshot)
+   * [How to use](#how to use)
+   * [Status](#status)
+   * [Features](#features)
+   * [Technologies](#technologies)
+   * [Author](#author)
 <!--te-->
 
-Sobre
+About
 -----
-<p>Esse projeto é o segundo desafio do projeto ONE - Oracle Next Education, um jogo da forca feito com HTML, CSS e Javascript</p>
-<p>Eu sempre gostei desse jogo e foi muito legal poder fazer o meu, estou muito feliz com o resultado achei o site muito bonito e atendeu as minhas expectativas para o projeto.</p>
-<p>A princípio eu estava buscando uma API para pegar as palavras, porém não encontrei nenhuma que me atendeu.Então eu encontrei uma lista com mais de 2.000 palavras e fiz um array.</p>
+<p>This project is the second challenge of the ONE - Oracle Next Education project, a hangman game made with HTML, CSS and Javascript</p>
+<p>I've always liked this game and it was really cool to be able to make my own, I'm very happy with the result. I found the site very beautiful and it met my expectations for the project.</p>
+<p>At first I was looking for an API to get the words, but I didn't find any that worked for me. So I found a list with more than 2,000 words and I made an array.</p>
 <p>O brilho do programa pra mim está no teclado, construí-lo foi relativamente simples e ficou muito intuitivo e bonito.</p>
 
 Screenshot
@@ -36,25 +36,25 @@ Screenshot
 <img alt="play_again" title="screenshot" src="assets/screenshot/jogar_novamente.png"/>
 <img alt="victory" title="screenshot" src="assets/screenshot/vitoria.png"/>
 
-Como Usar
+How to use
 ---------
-<p>Você pode acessar o site clicando <a href="https://fe7rodrigues.github.io/hangman_game/">aqui</a> ou abrindo o arquivo HTML em um navegador.</p>
-<p>Logo de início uma palavra será sorteada e você pode tentar descobrir qual é, você possui 6 tentativas para acertar a palavra.</p>
-<p>A cada final de jogo será mostrada a palavra correta e você poderá jogar novamente com outra palavra sorteada clicando no botão "Jogar novamente".</p>
+<p>You can access the site by clicking<a href="https://fe7rodrigues.github.io/hangman_game/">aqui</a> ou abrindo o arquivo HTML em um navegador.</p>
+<p>Right from the start a word will be drawn and you can try to find out which one it is, you have 6 attempts to get the word right.</p>
+<p>At each end of the game, the correct word will be shown and you will be able to play again with another word drawn by clicking on the "Play again" button.</p>
 
 Status
 ------
-Concluído :heavy_check_mark:
-
-Funcionalidades
+Concluded
+------
+Functionalities
 ---------------
-- [x] Jogar com o teclado
-- [x] Jogar com o mouse
-- [X] 6 tentativas
-- [X] Mais de 2.000 palavras
-- [ ] Adicionar palavras
+- [x] play with keyboard
+- [x] play with the mouse
+- [X] 6 attempts
+- [X] More than 2,000 words
+- [X] add words
 
-Tecnologias
+Technologies
 -----------
 <p align="center">
   <a href="https://html.com/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -62,7 +62,7 @@ Tecnologias
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 </p>
 
-Autor
+Author
 ------
 <h3 align="center">Fernando Rodrigues</h3>
 <p align="center">
